@@ -1,0 +1,19 @@
+.fondo{
+
+    background-color: khaki;
+    width: 200px;
+    height: 600px;
+    border-radius: 2px;
+
+}
+
+.btn{
+    display: block;
+    margin: 0 auto;
+    padding: 10px 30px 10px 30px;
+    font-size: 1em;
+    border-style: none;
+    background: red;
+    color: purple;
+    cursor: pointer;
+}
